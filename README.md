@@ -1,0 +1,1 @@
+Basic GO application using go fibre and mongoDB
